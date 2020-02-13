@@ -5,4 +5,6 @@
 5.i have not code examples(
 6.i haven't experience
 7.secondary special education. i learn html and css)
-8. my English is not good) bad Intermediate(B1).
+8. my English is not good) bad Intermediate(B1
+
+Add city info: I am from Minsk.
