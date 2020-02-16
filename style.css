@@ -1,4 +1,8 @@
-*{
-    font-size: 8px;
+body {
+    font-size: 18px;
     color: royalblue;
+    width:1024px;
+    margin: 0 auto;
+        
 }
+
